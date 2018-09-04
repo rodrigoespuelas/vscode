@@ -1,4 +1,4 @@
 # vscode
 
-Copiar la línea actual entera
+Copiar la línea actual entera  
 Ctrl+C (sin nada seleccionado)
